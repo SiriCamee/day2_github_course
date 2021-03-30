@@ -1,3 +1,3 @@
 print("hello everyone")
 
-print("names of collaborators: Siri, ")
+print("names of collaborators: Siri, Tareq")
